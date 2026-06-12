@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **html,css,javascript,c++,ruby,kotlin,php,pyhton,xampp**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-michaelcuy-langs-projects.vercel.app/](https://portofolio-michaelcuy-langs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.michaelbryan.site/](https://www.michaelbryan.site/)
 
 - 💬 Ask me about **html,css,javascript,c++**
 
 - 📫 How to reach me **mbryanmandey@gmail.com**
-
-- 📄 Know about my experiences [https://portofolio-michaelcuy-langs-projects.vercel.app/](https://portofolio-michaelcuy-langs-projects.vercel.app/)
 
 - ⚡ Fun fact **I think i can do anything but i don't :v**
 
